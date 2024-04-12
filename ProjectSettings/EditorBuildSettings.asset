@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.24.0/Hello Cardboard/Scenes/HelloCardboard.unity
+    guid: 145a2a45d7bc746b19cb68410368bf96
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4b2fe510991ca9c4ba6a10d748bf926a,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 991d3a2f218aae34a863136ce05d5aa4,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 537359f83487fb84ebb26dd54e4c95ac,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a4ef2de9b40712540bb85b291571cdac,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6c09f4dae85ebb74d99df5005ccadd25,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 0fa70686f2136de45afcc0a7ed881bee,
+      type: 2}
