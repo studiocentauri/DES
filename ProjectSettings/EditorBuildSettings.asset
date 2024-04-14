@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.24.0/Hello Cardboard/Scenes/HelloCardboard.unity
     guid: 145a2a45d7bc746b19cb68410368bf96
+  - enabled: 1
+    path: Assets/Scenes/VR Scene.unity
+    guid: 3b8e2bfe6407d854d9db7979d9899195
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4b2fe510991ca9c4ba6a10d748bf926a,
       type: 2}
